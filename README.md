@@ -1,6 +1,6 @@
 # Prasenjit Singh
 
-Solutions Architect, Enterprise Data Architecture and Strategy at Eli Lilly and Company.
+Solutions Architect, Context Engineering, working with Eli Lilly and Company.
 
 I design AI and data architecture for pharma and life sciences: governed data products, context engineering for enterprise AI, and evaluation that proves answers are accurate, consistent and traceable.
 
